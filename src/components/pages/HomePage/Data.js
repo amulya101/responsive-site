@@ -10,3 +10,16 @@ export const homeObjOne = {
     img: 'images/svg-1.svg',
     alt: 'Card'
 }
+
+export const homeObjTwo = {
+    lightBg: true,
+    lightText: true,
+    lightTextDesc: false,
+    topLine: '',
+    headline: 'Mudryk Joins Chelsea',
+    description: 'The Ukrainian talent from Shakhtar Donesk was bought for $102 million dollars',
+    buttonLabel: 'Learn more',
+    imgStart: 'start',
+    img: 'images/svg-1.svg',
+    alt: 'Card'
+}
